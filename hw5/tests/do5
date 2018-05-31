@@ -1,0 +1,5 @@
+adta -r 5000000
+usage
+adtd -s poipoi
+usage
+q -f

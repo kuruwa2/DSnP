@@ -1,0 +1,14 @@
+cirr sim13.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirstrash
+cirsim -file pattern.13
+cirp -fec
+cirp
+cirp -n
+cirp -fl
+usage
+q -f

@@ -1,0 +1,150 @@
+cirr sim01.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim02.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim03.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim04.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim05.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim06.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim07.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim08.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim09.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim10.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim11.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim12.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim13.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim14.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
+cirr sim15.aag -r
+cirp -s
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 0
+cirg 1
+cirg 5 -fanin 10
+cirw
